@@ -3,6 +3,8 @@ class Solution {
         int pal = 0;
         int org = x;
 
+        if(x < 0) return false;
+
         while(x > 0) {
             int l = x % 10;
             x = x / 10;
