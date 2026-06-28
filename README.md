@@ -51,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sanketsawant22/LeetHub/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Database
+|  |
+| ------- |
+| [0585-investments-in-2016](https://github.com/sanketsawant22/LeetHub/tree/master/0585-investments-in-2016) |
 <!---LeetCode Topics End-->
