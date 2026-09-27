@@ -1,49 +1,20 @@
 class Solution {
     public String reverseParentheses(String s) {
+        
+        StringBuilder sb = new StringBuilder(s);
 
-        int n = s.length();
+        while(sb.lastIndexOf("(") != -1) {
+            int a = sb.lastIndexOf("(");
+            int b = sb.indexOf(")", a);
 
-        // matching[i] = index of matching parenthesis
-        int[] matching = new int[n];
-        java.util.Stack<Integer> stack = new java.util.Stack<>();
+            StringBuilder temp = new StringBuilder(sb.substring(a+1, b));
 
-        for (int i = 0; i < n; i++) {
+            temp.reverse();
 
-            if (s.charAt(i) == '(') {
-                stack.push(i);
-
-            } else if (s.charAt(i) == ')') {
-
-                int open = stack.pop();
-
-                matching[open] = i;
-                matching[i] = open;
-            }
+            sb.replace(a, b+1, temp.toString());
         }
 
-        StringBuilder ans = new StringBuilder();
+        return sb.toString();
 
-        int i = 0;
-        int direction = 1;
-
-        while (i >= 0 && i < n) {
-
-            char c = s.charAt(i);
-
-            if (c == '(' || c == ')') {
-
-                i = matching[i];
-
-                direction = -direction;
-
-            } else {
-
-                ans.append(c);
-            }
-
-            i += direction;
-        }
-
-        return ans.toString();
     }
 }
