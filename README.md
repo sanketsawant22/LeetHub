@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/sanketsawant22/LeetHub/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanketsawant22/LeetHub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sanketsawant22/LeetHub/tree/master/1441-build-an-array-with-stack-operations) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sanketsawant22/LeetHub/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sanketsawant22/LeetHub/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sanketsawant22/LeetHub/tree/master/0013-roman-to-integer) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sanketsawant22/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanketsawant22/LeetHub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sanketsawant22/LeetHub/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sanketsawant22/LeetHub/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/sanketsawant22/LeetHub/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanketsawant22/LeetHub/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sanketsawant22/LeetHub/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Stack
 |  |
 | ------- |
