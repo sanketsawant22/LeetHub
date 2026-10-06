@@ -18,14 +18,7 @@ class Solution {
             }
         }
 
-        int ans = 0;
-
-        while(!st.isEmpty()) {
-            st.pop();
-            ans++;
-        }
-
-        return ans;
+        return st.size();
 
     }
 }
