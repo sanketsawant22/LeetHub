@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sanketsawant22/LeetHub/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sanketsawant22/LeetHub/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/sanketsawant22/LeetHub/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanketsawant22/LeetHub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanketsawant22/LeetHub/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanketsawant22/LeetHub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sanketsawant22/LeetHub/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sanketsawant22/LeetHub/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanketsawant22/LeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0856-score-of-parentheses](https://github.com/sanketsawant22/LeetHub/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanketsawant22/LeetHub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanketsawant22/LeetHub/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sanketsawant22/LeetHub/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanketsawant22/LeetHub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanketsawant22/LeetHub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sanketsawant22/LeetHub/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Database
 |  |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sanketsawant22/LeetHub/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sanketsawant22/LeetHub/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/sanketsawant22/LeetHub/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanketsawant22/LeetHub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanketsawant22/LeetHub/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanketsawant22/LeetHub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
