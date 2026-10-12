@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/sanketsawant22/LeetHub/tree/master/1441-build-an-array-with-stack-operations) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sanketsawant22/LeetHub/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sanketsawant22/LeetHub/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sanketsawant22/LeetHub/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanketsawant22/LeetHub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sanketsawant22/LeetHub/tree/master/0022-generate-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sanketsawant22/LeetHub/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
