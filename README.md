@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sanketsawant22/LeetHub/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sanketsawant22/LeetHub/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanketsawant22/LeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sanketsawant22/LeetHub/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## String
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanketsawant22/LeetHub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sanketsawant22/LeetHub/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sanketsawant22/LeetHub/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sanketsawant22/LeetHub/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sanketsawant22/LeetHub/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Database
 |  |
