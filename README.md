@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanketsawant22/LeetHub/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/sanketsawant22/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanketsawant22/LeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sanketsawant22/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1288-remove-covered-intervals](https://github.com/sanketsawant22/LeetHub/tree/master/1288-remove-covered-intervals) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sanketsawant22/LeetHub/tree/master/0088-merge-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/sanketsawant22/LeetHub/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanketsawant22/LeetHub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sanketsawant22/LeetHub/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sanketsawant22/LeetHub/tree/master/0005-longest-palindromic-substring) |
+| [0088-merge-sorted-array](https://github.com/sanketsawant22/LeetHub/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
