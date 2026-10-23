@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/sanketsawant22/LeetHub/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sanketsawant22/LeetHub/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sanketsawant22/LeetHub/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/sanketsawant22/LeetHub/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sanketsawant22/LeetHub/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sanketsawant22/LeetHub/tree/master/2089-find-target-indices-after-sorting-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/sanketsawant22/LeetHub/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
